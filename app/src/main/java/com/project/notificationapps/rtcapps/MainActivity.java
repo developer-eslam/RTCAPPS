@@ -37,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
                 // Intent intent = new Intent(MainActivity.this,Main2Activity.class);
 //                String message  = txtmessage.getText().toString();
 //            intent.putExtra("message",message);
+             //intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+
 //            startActivity(intent);
             }
         });
